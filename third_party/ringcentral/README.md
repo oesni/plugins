@@ -19,7 +19,7 @@ Or run `/add-plugin ringcentral` in chat.
   "mcpServers": {
     "ringcentral": {
       "type": "http",
-      "url": "https://developers.ringcentral.com/mcp/servers/ringex-phone/"
+      "url": "https://mcp.labs.ringcentral.com/ringex/phone"
     }
   }
 }
@@ -46,7 +46,7 @@ The hosted runtime is the source of truth for tool names and schemas.
 ## Docs
 
 - RingCentral: https://www.ringcentral.com
-- Server URL: https://developers.ringcentral.com/mcp/servers/ringex-phone/
+- Server URL: https://mcp.labs.ringcentral.com/ringex/phone
 
 Logo is RingCentral's mark from the `ringcentral` GitHub organization avatar (256×256). The submitted logo URL (`https://www.ringcentral.com/favicon.ico`) could not be downloaded when this plugin was added.
 
